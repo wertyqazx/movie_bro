@@ -1,6 +1,6 @@
 # 🎬 MovieMate — Telegram-бот для поиска фильмов
 
-**Автор:** Олег Яковлев (группа 413120)
+**Автор:** Олег Яковлев 413120
 
 ---
 
@@ -25,7 +25,7 @@ MovieMate — это Telegram-бот, который помогает быстр
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/your-username/moviemate-bot.git
+git clone https://github.com/wertyqazx/movie_bro.git
 cd moviemate-bot
 ```
 
